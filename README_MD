@@ -62,6 +62,10 @@ if n > max_value:: Jika n lebih besar dari max_value, maka max_value diperbarui 
 
 print("Nilai maksimum adalah:", max_value): Setelah loop selesai (ketika pengguna memasukkan 0), program mencetak nilai terbesar yang ditemukan.
 
-Contoh Jalannya Program:
-
+Contoh eksekusi bilangan program
+Input N (masukkan 0 untuk berhenti): 69
+Input N (masukkan 0 untuk berhenti): 96
+Input N (masukkan 0 untuk berhenti): 65
+Input N (masukkan 0 untuk berhenti): 0
+Nilai maksimum adalah: 96
 Jika pengguna memasukkan angka secara berurutan: 69, 96, 65 maka program akan menampilkan "Nilai maksimum adalah: 96".
